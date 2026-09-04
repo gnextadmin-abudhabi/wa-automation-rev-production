@@ -13,8 +13,8 @@ An interactive, bilingual WhatsApp enquiry-to-customer automation flow for CLICK
 
 ## View
 
-Open [`index.html`](./index.html) in a browser to explore the complete interactive diagram.
+Open [`index.html`](./index.html) to view the revised CLICKNX → GXLOCATE/GNEXT service-routing and WhatsApp handoff flow. This is the deployment entry page.
 
-Open [`multi-brand-flow.html`](./multi-brand-flow.html) for the additional CLICKNX → GXLOCATE/GNEXT service-routing and WhatsApp handoff flow. The original diagram remains unchanged.
+The original CLICKNX-only diagram is preserved as [`clicknx-original-flow.html`](./clicknx-original-flow.html). The revised flow is also retained as [`multi-brand-flow.html`](./multi-brand-flow.html).
 
 The detailed functional specification is available in [`CLICKNX_WhatsApp_Automation_Flow.md`](./CLICKNX_WhatsApp_Automation_Flow.md).
